@@ -5,7 +5,7 @@
   "description": "following structured backend project taught by chai and code",
   "main": "index.js",
   "scripts": {
-   "dev":"nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -16,6 +16,7 @@
   "author": "Sanya Doda",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.2"
   }
 }
